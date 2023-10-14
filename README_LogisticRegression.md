@@ -1,4 +1,4 @@
-# ROCK VE MIE PREDICTION
+# ROCK VE MINE PREDICTION
 Rock VS Mine Prediction using Logistic regression 
 
 
